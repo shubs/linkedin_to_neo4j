@@ -6,6 +6,11 @@ You probably need to anyalize/monitor your linkedin network. I personally use th
 
 # How to use
 
+You have to setup your linkedin API key by creating an app into it
+[Linkedin app settings](https://www.linkedin.com/secure/developer)
+[Linkedin API documentation](https://developer.linkedin.com/)
+
+
 ```bash
 git clone https://github.com/shubs/linkedin_to_neo4j.git
 cd linkedin_to_neo4j
