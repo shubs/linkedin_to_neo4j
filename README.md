@@ -6,7 +6,14 @@ You probably need to anyalize/monitor your linkedin network. I personnaly use th
 
 # How to use
 
-```
+```bash
+git clone https://github.com/shubs/linkedin_to_neo4j.git
+cd linkedin_to_neo4j
+
+pip install oauth2
+pip install simplejson
+pip install py2neo
+
 chmod +x import.py
 Usage:	./import.py consumer_key consumer_secret oauth_token oauth_token_secret
 ```
