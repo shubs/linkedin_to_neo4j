@@ -1,6 +1,6 @@
 # Why this ?
 
-You probably need to anyalize/monitor your linkedin network. I personnaly use this to have a better visualization of my network
+You probably need to anyalize/monitor your linkedin network. I personally use this to have a better visualization of my network
 ![graph](/images/graph.png)
 
 
